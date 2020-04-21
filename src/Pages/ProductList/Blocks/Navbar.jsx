@@ -6,7 +6,7 @@ const { Header } = Layout;
 
 export const Navbar = () => (
   <Layout className="layout">
-    <Header style={{ background: "#fff" }}>
+    <Header style={{ background: "#bbd" }}>
       <div className="logo" />
       <Menu mode="horizontal">
         <Menu.Item key="1">
